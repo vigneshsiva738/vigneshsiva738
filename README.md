@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh Siva</h1>
-<h3 align="center">Passionate about crafting responsive, modern, and scalable web applications using MongoDB, Express.js, React, and Node.js. Always learning, always building.</h3>
+<h3 align="center">Passionate about crafting responsive, modern, and scalable web applications using React.js, Node.js, Express.js and MongoDB. Always learning, always building.</h3>
 
 - 📫 How to reach me **vigneshsiva738@gmail.com**
 
